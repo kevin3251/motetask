@@ -1,0 +1,15 @@
+{
+  "name": "motetask",
+  "version": "0.0.1",
+  "description": "The motechat microservice framework.",
+  "main": "index.js",
+  "author": "Kevin Chueh",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "fs-extra": "^7.0.0",
+    "motechat": "^1.2.9",
+    "pino": "^5.1.0",
+    "pino-pretty": "^2.0.1"
+  }
+}
